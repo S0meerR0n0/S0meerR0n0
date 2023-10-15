@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👷‍♂️ Engineering Student at \[Graphic Era Hill University\]
 ------------------------------------------------------------
 
-👋 Hello, I'm \[Sameer Rana\], an engineering student at \[Graphic Era Hill University\]. I'm passionate about technology and committed to continuous learning and improvement. My interests lie in \[ web development, cyber security, etc.\]. 🌱 I'm constantly exploring new technologies and tools, and currently, I'm diving into \[ learning Rust, building a personal website using React, etc.\]. 💼 As a \[second-year\] engineering student, I'm excited to apply my knowledge and skills to real-world problems and contribute to open-source projects. I'm proficient in \[C, C++, Python, etc.\]. 📧 You can reach me at \[sameerrana248140@gmail.com\] for collaborations or discussions. Let's connect and explore the world of technology together! 🚀 Outside of coding, I enjoy \[ hiking, running, cycling, etc.\]. Life is all about balance! 📚 I believe in the power of education, and I'm open to mentorship and learning from the community. Feel free to ask me anything or share your knowledge. Let's grow together. 🌟 Let's code, create, and innovate!
+👋 Engineering Student at \[Graphic Era Hill University\] 💻 Web Developer | Cybersecurity Enthusiast 🌱 Exploring Rust and React 📧 Contact: \[sameerrana248140@gmail.com\] 🚀 Passion for coding, balance in life 📚 Open to mentorship and collaboration 🌟 Let's innovate together!
 
 * 🌍  I'm based in Dehradun City
 * ✉️  You can contact me at [sameerrana248140@gmail.com](mailto:sameerrana248140@gmail.com)
